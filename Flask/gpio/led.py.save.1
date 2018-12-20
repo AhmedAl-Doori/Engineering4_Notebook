@@ -1,0 +1,27 @@
+from flask import Flask, render_template, request
+import RPi.GPIO as GPIO
+from time import sleep 
+
+GPIO.setwarnings(False)
+GPIO.setmode(GPIO.BCM)
+GPIO.setup(17,GPIO.OUT)
+
+app = Flask(__name__)
+
+@app.route("/",methods=["GET","POST"])
+def home():
+	return "Welcome to the LED Controller, :/switch for ON/Off and :/fade for brightness"
+
+@app.route("/switch")
+def switch():
+	state = GPIO.input(17)
+	while True:		GPIO.output(17,GPIO.HIGH)
+		sleep(1)
+		GPIO.output(17,GPIO.LOW)
+		sleep(1)
+	return render_template("switch.html",state)
+
+if __name__ == "__main__":
+     app.run(host="0.0.0.0",port=80)
+
+state = GPIO.input(17)
