@@ -4,4 +4,4 @@
 2. Second is a Quadratic Equations Solver. Very useful by providing the number of solutions. TWO, ONE, OR NO REAL SOLUTIONS.
 3. 
 
-![Wiki Link](https://github.com/AhmedAl-Doori/Engineering4_Notebook/wiki/home2)
+[Wiki Link](https://github.com/AhmedAl-Doori/Engineering4_Notebook/wiki/home2)
