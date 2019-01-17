@@ -4,5 +4,5 @@ This is an **overview** of the programs in this repository. All the assignmetns 
 Beginning of the year assignments. I worked on them as an introduction to python. The programs get more and more advanced...
 #### Calculator
 A simple 4-operation quick :zap: calculator. Click to access more information on [calculator](https://github.com/AhmedAl-Doori/Engineering4_Notebook/wiki/Calculator) page in the local WIKI.
-
-Second is a Quadratic Equations Solver. Very useful by providing the number of solutions. TWO, ONE, OR NO REAL SOLUTIONS. 
+#### Quadratic Solver
+A very useful program that provides the solution to quadratic equations. [Click Here](https://github.com/AhmedAl-Doori/Engineering4_Notebook/wiki/Quadratic-Solver)
