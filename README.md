@@ -1,5 +1,6 @@
 # Engineering 4 Notebook
 This is an **overview** of the programs in this repository. All the assignmetns are operated on [PIs](https://en.wikipedia.org/wiki/Raspberry_Pi), small portable computers that understand python as a main language. There's HTML for working the Flask application, but it's only used for templates.
+
 \*\* The assignments are organized based on the programs folder in the repository. Open the links to read more about them in the WIKI!
 ### Practice Programs - Python Folder :file_folder:
 Beginning of the year assignments. I worked on them as an introduction to python. The programs get more and more advanced...
