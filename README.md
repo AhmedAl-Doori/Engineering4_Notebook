@@ -10,3 +10,5 @@ What's this? Is it a [game](https://github.com/AhmedAl-Doori/Engineering4_Notebo
 A simple 4-operation quick :zap: calculator. Click to access more information on [calculator](https://github.com/AhmedAl-Doori/Engineering4_Notebook/wiki/Calculator) page in the local WIKI.
 #### - Quadratic Solver
 A very useful program that provides the solution to quadratic equations. [Click Here](https://github.com/AhmedAl-Doori/Engineering4_Notebook/wiki/Quadratic-Solver)
+#### - The Splitter :knife: :keyboard:
+An intro to Strings and Loops. It [splits](https://github.com/AhmedAl-Doori/Engineering4_Notebook/wiki/Strings-and-Loops) your name however you like...
