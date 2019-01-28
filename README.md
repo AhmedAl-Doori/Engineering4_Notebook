@@ -12,4 +12,7 @@ A simple 4-operation quick :zap: calculator. Click to access more information on
 A very useful program that provides the solution to quadratic equations. [Click Here](https://github.com/AhmedAl-Doori/Engineering4_Notebook/wiki/Quadratic-Solver)
 #### - The Splitter :knife: :keyboard:
 An intro to Strings and Loops. It [splits](https://github.com/AhmedAl-Doori/Engineering4_Notebook/wiki/Strings-and-Loops) your name however you like...
-Yes
+
+## General Purpose Input/Output - GPIO Folder :file_folder:
+#### Light Emitting Diodes 
+:rotating_light: are maniplulated easily through PIs. Check out [LED](
