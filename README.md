@@ -16,3 +16,6 @@ An intro to Strings and Loops. It [splits](https://github.com/AhmedAl-Doori/Engi
 ## General Purpose Input/Output - GPIO Folder :file_folder:
 #### Light Emitting Diodes 
 :rotating_light: are maniplulated easily through PIs. Check out [LED](https://github.com/AhmedAl-Doori/Engineering4_Notebook/wiki/LED)
+
+## God of War - Midterm Folder :file_folder:
+The game of the year is right here ladies and gentleman. (KRATOS!)[
